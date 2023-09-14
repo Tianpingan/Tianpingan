@@ -4,7 +4,6 @@ You can also find me at:
 - vjudge: https://vjudge.net/user/tpaaaaaa
 - codeforces:
   - https://codeforces.com/profile/Tianpingan
-  - https://codeforces.com/profile/tpaaaa
 
 
 
